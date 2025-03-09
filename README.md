@@ -1,1 +1,1 @@
-This repository contains LeetCode Problem with Solutions.
+This repository consists of the solved Leetcode problem solutions with problem description.
