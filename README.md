@@ -19,6 +19,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0053-maximum-subarray) |
 ## Divide and Conquer
 |  |
@@ -28,4 +29,8 @@ This repository consists of the solved Leetcode problem solutions with problem d
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
