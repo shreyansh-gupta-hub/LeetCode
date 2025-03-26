@@ -25,6 +25,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0189-rotate-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0189-rotate-array) |
 | [0493-reverse-pairs](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0493-reverse-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -39,6 +40,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0189-rotate-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,4 +61,8 @@ This repository consists of the solved Leetcode problem solutions with problem d
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0493-reverse-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
