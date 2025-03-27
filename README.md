@@ -21,6 +21,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | ------- |
 | [0001-two-sum](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0189-rotate-array) |
 | [0493-reverse-pairs](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0493-reverse-pairs) |
@@ -39,6 +40,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0189-rotate-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
