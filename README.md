@@ -7,6 +7,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | ------- |
 | [0001-two-sum](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 ## Math
 |  |
@@ -24,6 +25,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0189-rotate-array) |
 | [0493-reverse-pairs](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0493-reverse-pairs) |
@@ -73,4 +75,8 @@ This repository consists of the solved Leetcode problem solutions with problem d
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
