@@ -29,6 +29,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0128-longest-consecutive-sequence](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0189-rotate-array) |
 | [0493-reverse-pairs](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0493-reverse-pairs) |
+| [0792-binary-search](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
@@ -51,6 +52,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0493-reverse-pairs) |
+| [0792-binary-search](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0792-binary-search) |
 ## Binary Indexed Tree
 |  |
 | ------- |
