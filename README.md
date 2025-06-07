@@ -46,6 +46,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -90,6 +91,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0142-linked-list-cycle-ii) |
