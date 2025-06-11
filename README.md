@@ -15,6 +15,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0189-rotate-array) |
 ## String
@@ -94,6 +95,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -108,6 +110,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0234-palindrome-linked-list) |
