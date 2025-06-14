@@ -34,6 +34,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0189-rotate-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0189-rotate-array) |
 | [0493-reverse-pairs](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0792-binary-search) |
+| [1791-richest-customer-wealth](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
@@ -93,6 +94,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [1791-richest-customer-wealth](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Linked List
 |  |
 | ------- |
