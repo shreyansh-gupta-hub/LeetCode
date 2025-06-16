@@ -114,6 +114,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0206-reverse-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0838-design-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -136,6 +137,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0146-lru-cache) |
+| [0838-design-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0838-design-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
