@@ -19,6 +19,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | ------- |
 | [0002-add-two-numbers](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0189-rotate-array) |
 ## String
 |  |
@@ -124,6 +125,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0002-add-two-numbers](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Stack
