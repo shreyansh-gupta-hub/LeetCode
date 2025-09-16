@@ -33,6 +33,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0031-next-permutation](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0189-rotate-array) |
 | [0493-reverse-pairs](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0493-reverse-pairs) |
@@ -56,6 +57,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -135,6 +137,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0147-insertion-sort-list) |
 ## Design
 |  |
