@@ -27,6 +27,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | ------- |
 | [0013-roman-to-integer](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0022-generate-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -55,6 +56,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
@@ -169,4 +171,8 @@ This repository consists of the solved Leetcode problem solutions with problem d
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
