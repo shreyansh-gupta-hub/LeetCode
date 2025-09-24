@@ -6,6 +6,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -19,12 +20,14 @@ This repository consists of the solved Leetcode problem solutions with problem d
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0022-generate-parentheses) |
