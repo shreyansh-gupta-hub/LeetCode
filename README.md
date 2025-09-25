@@ -22,6 +22,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0002-add-two-numbers](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0189-rotate-array) |
 ## String
@@ -38,6 +39,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0014-longest-common-prefix](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0075-sort-colors) |
@@ -110,6 +112,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1791-richest-customer-wealth](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Linked List
