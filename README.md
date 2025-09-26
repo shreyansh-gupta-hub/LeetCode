@@ -16,6 +16,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0146-lru-cache](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +50,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0169-majority-element](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0189-rotate-array) |
 | [0493-reverse-pairs](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0493-reverse-pairs) |
+| [0560-subarray-sum-equals-k](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0792-binary-search) |
 | [1791-richest-customer-wealth](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -184,4 +186,8 @@ This repository consists of the solved Leetcode problem solutions with problem d
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0022-generate-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
