@@ -33,6 +33,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0012-integer-to-roman](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0022-generate-parentheses) |
 ## Array
 |  |
@@ -155,6 +156,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
