@@ -26,6 +26,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0048-rotate-image](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0189-rotate-array) |
+| [1642-water-bottles](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1642-water-bottles) |
 ## String
 |  |
 | ------- |
@@ -111,6 +112,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0054-spiral-matrix) |
+| [1642-water-bottles](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
 |  |
