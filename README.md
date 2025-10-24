@@ -16,6 +16,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0146-lru-cache](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
@@ -56,6 +57,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0128-longest-consecutive-sequence](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0792-binary-search) |
@@ -172,6 +174,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0075-sort-colors](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0229-majority-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -190,6 +193,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0229-majority-element-ii) |
 ## Trie
 |  |
 | ------- |
