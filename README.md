@@ -44,6 +44,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | ------- |
 | [0001-two-sum](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0031-next-permutation) |
 | [0047-permutations-ii](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0047-permutations-ii) |
@@ -80,6 +81,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -170,6 +172,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0147-insertion-sort-list) |
