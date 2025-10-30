@@ -57,6 +57,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0118-pascals-triangle](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0189-rotate-array) |
@@ -131,12 +132,14 @@ This repository consists of the solved Leetcode problem solutions with problem d
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0130-surrounded-regions) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0130-surrounded-regions](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0130-surrounded-regions) |
 | [1791-richest-customer-wealth](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Linked List
 |  |
@@ -196,6 +199,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0130-surrounded-regions) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Counting
 |  |
@@ -219,4 +223,8 @@ This repository consists of the solved Leetcode problem solutions with problem d
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
