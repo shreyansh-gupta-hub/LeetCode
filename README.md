@@ -18,6 +18,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0169-majority-element](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
@@ -43,6 +44,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -195,6 +197,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0147-insertion-sort-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0242-valid-anagram) |
 ## Design
 |  |
 | ------- |
