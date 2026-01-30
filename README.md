@@ -49,6 +49,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0451-sort-characters-by-frequency](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
@@ -189,6 +190,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0020-valid-parentheses](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
 |  |
 | ------- |
