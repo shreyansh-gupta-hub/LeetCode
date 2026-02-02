@@ -63,6 +63,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0015-3sum](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0035-search-insert-position) |
 | [0047-permutations-ii](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0047-permutations-ii) |
@@ -126,6 +127,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0493-reverse-pairs) |
