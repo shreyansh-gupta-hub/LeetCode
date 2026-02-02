@@ -80,6 +80,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0229-majority-element-ii](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0792-binary-search) |
 | [1791-richest-customer-wealth](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -124,6 +125,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0792-binary-search) |
 ## Binary Indexed Tree
 |  |
