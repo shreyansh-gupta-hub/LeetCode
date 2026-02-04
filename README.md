@@ -31,6 +31,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0013-roman-to-integer](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0189-rotate-array) |
 | [1642-water-bottles](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1642-water-bottles) |
 | [1903-largest-odd-number-in-string](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -134,6 +135,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0033-search-in-rotated-sorted-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0162-find-peak-element) |
