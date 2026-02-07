@@ -94,6 +94,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1791-richest-customer-wealth](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -151,6 +152,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1539-kth-missing-positive-number) |
 ## Binary Indexed Tree
 |  |
 | ------- |
