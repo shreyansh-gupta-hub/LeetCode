@@ -25,7 +25,7 @@ public:
         return days_used <= days;
     }
     int shipWithinDays(vector<int>& weights, int days) {
-        int low = 1;
+        int low = *max_element(weights.begin(), weights.end());
         int high = arrsum(weights);
         while(low<=high){
             int mid = low + (high-low)/2;
