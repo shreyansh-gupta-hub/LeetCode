@@ -51,6 +51,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0205-isomorphic-strings](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0686-repeated-string-match](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -283,6 +284,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0796-rotate-string) |
 ## Breadth-First Search
 |  |
