@@ -101,6 +101,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [1791-richest-customer-wealth](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2643-row-with-maximum-ones](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/2643-row-with-maximum-ones) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -195,6 +196,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0073-set-matrix-zeroes](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0130-surrounded-regions) |
 | [1791-richest-customer-wealth](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [2643-row-with-maximum-ones](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/2643-row-with-maximum-ones) |
 ## Linked List
 |  |
 | ------- |
