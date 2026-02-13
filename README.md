@@ -102,6 +102,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [1539-kth-missing-positive-number](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1791-richest-customer-wealth](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1901-find-a-peak-element-ii](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/2643-row-with-maximum-ones) |
 ## Divide and Conquer
@@ -166,6 +167,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -203,6 +205,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0130-surrounded-regions](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1791-richest-customer-wealth](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1901-find-a-peak-element-ii](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/2643-row-with-maximum-ones) |
 ## Linked List
 |  |
