@@ -21,21 +21,25 @@ public:
         }
         temp = head;
         int idx = count-n;
-        
         if(idx == 0){
             if(head->next != nullptr){
-                head = head->next;
-                return head;
+                ListNode* newhead = head->next;
+                delete head;
+                return newhead;
             }else{
                 return nullptr;
             }
         }
-        for(int i{1};i<idx;i++){
+        while (temp!=NULL){
+            idx--;
+            if(idx==0){
+                break;
+            }
             temp = temp->next;
         }
-        if(idx>0 && temp->next != nullptr && temp != nullptr){
-            temp->next= temp->next->next;
-        }
+        ListNode* delnode = temp->next;
+        temp->next= temp->next->next;
+        delete delnode;
         return head;
     }
 };
