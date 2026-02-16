@@ -8,14 +8,22 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* dummyHead = new ListNode(0);  // Dummy node to simplify head management
+        ListNode* dummyHead = new ListNode(0);
         ListNode* current = dummyHead;
         int carry = 0;
-
-        // Loop until both lists are exhausted and carry is 0
         while (l1 != nullptr || l2 != nullptr || carry > 0) {
             int sum = carry;
 
