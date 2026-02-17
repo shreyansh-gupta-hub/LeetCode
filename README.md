@@ -297,6 +297,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | ------- |
 | [0022-generate-parentheses](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0047-permutations-ii) |
+| [0401-binary-watch](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0401-binary-watch) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -325,4 +326,8 @@ This repository consists of the solved Leetcode problem solutions with problem d
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
