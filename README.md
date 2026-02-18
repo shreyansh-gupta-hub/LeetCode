@@ -333,4 +333,5 @@ This repository consists of the solved Leetcode problem solutions with problem d
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
