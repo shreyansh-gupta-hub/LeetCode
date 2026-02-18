@@ -145,6 +145,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0234-palindrome-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -235,6 +236,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0838-design-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -253,6 +255,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0234-palindrome-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
