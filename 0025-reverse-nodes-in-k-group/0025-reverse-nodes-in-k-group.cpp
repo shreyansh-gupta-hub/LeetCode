@@ -9,58 +9,44 @@
  * };
  */
 class Solution {
-private:
-static bool DoInvert3(ListNode* previous, ListNode* current, const int i, const int k, ListNode** lastNode, ListNode** nextNode){
-        if (i == k){
-            *lastNode = previous;
-            *nextNode = current;
-            return true;
-        }
-        if (current->next == nullptr && i < k - 1){
-            *lastNode = nullptr;
-            *nextNode = nullptr;
-            return false;
-        }
-        const auto tmp = current->next == nullptr
-            ? DoInvert3(current, nullptr, i + 1, k, lastNode, nextNode)
-            : DoInvert3(current, current->next, i + 1, k, lastNode, nextNode);
-        if (!tmp){
-            return false;
-        }
-        current->next = previous;
-        return true;
-    }
-    static bool DoInvert3FirstRun(ListNode* previous, const int k, ListNode** next_node){
-        if (previous->next->next == nullptr && k >= 2){
-            next_node = nullptr;
-            return false;
-        }
-        ListNode* lastNode = nullptr;
-        if (!DoInvert3(previous->next, previous->next->next, 1, k, &lastNode, next_node)){
-            return false;
-        }
-        previous->next->next = *next_node;
-        previous->next = lastNode;
-        return true;
-    }
 public:
-    ListNode* reverseKGroup(ListNode* beg, int k) {
-        if (k == 1){
-            return beg;
+    ListNode* reverse(ListNode*& head, ListNode* temp, int x){
+        ListNode* sve = temp;
+        ListNode* curr = temp;
+        ListNode* prev = NULL;
+        for (int i{0};i<x;i++){
+            ListNode* next = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = next;
         }
-        ListNode n0(-1, beg);
-        auto node = &n0;
-        while (true){
-            const auto nodeToUseForTheNextRun = node->next;
-            ListNode* nextNode = nullptr;
-            const auto res = DoInvert3FirstRun(node, k, &nextNode);
-
-            if (!res || nextNode == nullptr)
-            {
-                break;
+        if(temp == head){
+            head = prev;
+        }
+        sve->next = curr;
+        
+        return prev;
+    }
+    ListNode* reverseKGroup(ListNode* head, int k) {
+        if(head == NULL || head->next == NULL) return head;
+        ListNode* temp = head;
+        ListNode* prevGroupTail = NULL;
+        ListNode* nextGroupStart = NULL;
+        while(temp!=NULL){
+            ListNode* check = temp;
+            int count = 0;
+            while(count < k && check){
+                check = check->next;
+                count++;
             }
-            node = nodeToUseForTheNextRun;
+            if(count < k) break; 
+            nextGroupStart = reverse(head, temp, k);
+            if(prevGroupTail){
+                prevGroupTail->next = nextGroupStart;
+            }
+            prevGroupTail = temp;
+            temp = temp->next;
         }
-        return n0.next;
+        return head;
     }
 };
