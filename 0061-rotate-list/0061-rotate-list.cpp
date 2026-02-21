@@ -10,24 +10,35 @@
  */
 class Solution {
 public:
+    int SizeofLL(ListNode* head){
+        ListNode* temp = head;
+        int count{0};
+        while(temp!=NULL){
+            temp = temp->next;
+            count++;
+        }
+        return count;
+    }
+    ListNode* rotateonce(ListNode* head){
+        ListNode* temp =head;
+        ListNode* prev = NULL;
+        while(temp->next!=NULL){
+            ListNode* next = temp->next;
+            prev = temp;
+            temp = next;
+        }
+        prev->next=NULL;
+        temp->next = head;
+        head = temp;
+        return head;
+    }
     ListNode* rotateRight(ListNode* head, int k) {
-        if(head == NULL || head->next == NULL || k == 0) return head;
-        ListNode* tail = head;
-        int len = 0;
-        while(tail->next != NULL){
-            len++;
-            tail = tail->next;
-        }
-        len++;
-        ListNode* temp=head;
-        k = k % len;
-        if(k == 0) return head;
-        for(int i=1;i<len-k;i++){
-            temp=temp->next;
-        }
-        tail->next=head;
-        head=temp->next;
-        temp->next=NULL;
+        if(head == NULL || head->next == NULL) return head;
+        int LLSize = SizeofLL(head);
+        k%=LLSize;
+        for (int i{0};i<k;i++){
+            head = rotateonce(head);
+        };
         return head;
     }
 };
