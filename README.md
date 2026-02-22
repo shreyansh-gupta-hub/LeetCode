@@ -223,6 +223,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0061-rotate-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -255,6 +256,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0020-valid-parentheses) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -285,6 +287,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0130-surrounded-regions) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Counting
@@ -337,4 +340,12 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | ------- |
 | [0401-binary-watch](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+## Tree
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Tree
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
