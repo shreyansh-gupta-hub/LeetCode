@@ -17,28 +17,42 @@ public:
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
-        if (!head) return nullptr;
-        Node* curr = head;
-        Node* ans = new Node(0);
-        Node* i=ans;
-
-        unordered_map<Node*, Node*> mp;
-        while(curr){
-            i->next = new Node(curr->val);
-            mp[curr] = i->next;
-
-            i = i->next;
-            curr = curr->next;
+        if(head==NULL) return head;
+        //i'm gonna insert new nodes inbetween
+        Node* temp = head;
+        while(temp!=NULL){
+            Node* newNode = new Node(-1);
+            newNode->next = temp->next;
+            newNode->val = temp->val;
+            temp->next = newNode;
+            temp = temp->next->next;
         }
-        curr = head;
-        i = ans->next;
-        while(curr){
-            Node* x = curr->random;
-            if( x != NULL)  i->random = mp[x];
-            else{ i->random = nullptr;}
-            i = i->next;
-            curr = curr->next;
+
+        //now connect random ptr
+        temp = head;
+        while(temp!=NULL){
+            Node* nextptr = temp->next;
+            if(temp->random!=NULL){
+                nextptr->random = temp->random->next;
+            }else{
+                nextptr->random = NULL;
+            }
+            temp = temp->next->next;
         }
-        return ans->next;
+
+        //now connect next node
+        temp = head;
+        Node* DummyNode = new Node(-1);
+        DummyNode->next = temp->next;
+        Node* res = DummyNode;
+        while(temp!=NULL){
+            res->next = temp->next;
+            temp->next = temp->next->next;
+            temp = temp->next;
+            res = res->next;
+        }
+
+        return DummyNode->next;
+        
     }
 };
