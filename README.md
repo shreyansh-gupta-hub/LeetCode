@@ -35,6 +35,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0189-rotate-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0189-rotate-array) |
 | [1642-water-bottles](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1642-water-bottles) |
 | [1903-largest-odd-number-in-string](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1922-count-good-numbers) |
 ## String
 |  |
 | ------- |
@@ -252,6 +253,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0203-remove-linked-list-elements](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1922-count-good-numbers) |
 ## Stack
 |  |
 | ------- |
