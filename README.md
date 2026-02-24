@@ -78,6 +78,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0073-set-matrix-zeroes](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0118-pascals-triangle) |
@@ -309,6 +310,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | ------- |
 | [0022-generate-parentheses](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0401-binary-watch) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Prefix Sum
@@ -342,6 +344,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
