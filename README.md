@@ -58,6 +58,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Array
 |  |
 | ------- |
@@ -309,6 +310,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0022-generate-parentheses](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0047-permutations-ii) |
 | [0401-binary-watch](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0401-binary-watch) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -342,6 +344,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | ------- |
 | [0401-binary-watch](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Tree
 |  |
 | ------- |
