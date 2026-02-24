@@ -294,6 +294,7 @@ This repository consists of the solved Leetcode problem solutions with problem d
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0130-surrounded-regions) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Counting
 |  |
 | ------- |
@@ -352,8 +353,10 @@ This repository consists of the solved Leetcode problem solutions with problem d
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/shreyansh-gupta-hub/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 <!---LeetCode Topics End-->
